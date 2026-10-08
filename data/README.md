@@ -1,6 +1,5 @@
 # Data
 
-This repository does not redistribute the dataset.
 
 The scripts expect a CSV with two columns:
 
@@ -22,5 +21,3 @@ Then pass the CSV path explicitly to training/evaluation scripts, for example:
 ```bash
 python scripts/run_cv.py --data data/raw/clean_sql_dataset.csv
 ```
-
-Do not commit `kaggle.json`, private data, generated splits containing sensitive content, or model checkpoints unless you intend to publish them.
