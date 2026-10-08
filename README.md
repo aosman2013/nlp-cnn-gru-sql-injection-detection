@@ -333,13 +333,14 @@ If you use this repository, please cite the associated manuscript.
 ```bibtex
 @article{YOUR_CITATION_KEY,
   title   = {Improving SQL Injection Detection Using NLP-Integrated CNN-GRU Hybrid Deep Learning Architecture},
-  author  = {Author names},
-  journal = {Journal name},
+  author  = {Ahmed M. Osman, Hazem M. El-Bakry and
+Ahmed M. Elshewey},
+  journal = {Under Review},
   year    = {Year}
 }
 ```
 
-The citation information can be updated after publication.
+The citation information will be updated after publication.
 
 ---
 
