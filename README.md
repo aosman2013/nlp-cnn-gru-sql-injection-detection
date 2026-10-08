@@ -1,4 +1,4 @@
-# BERT-CNN-GRU for SQL Injection Detection
+# Improving SQL Injection Detection Using NLP-Integrated CNN-GRU Hybrid Deep Learning Architecture
 
 This repository provides the implementation and experimental workflow for a hybrid deep-learning framework for SQL Injection (SQLi) detection based on BERT, Convolutional Neural Networks (CNN), and Gated Recurrent Units (GRU).
 
